@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Nandhu<br><br>I'm a passionate software developer currently interning at Synnefo Solutions.<br>I enjoy working on a variety of projects and continuously expanding my skills<br>in web development, and software engineering.
 
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandanaaaa.___)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandana-cs-a31b4829b/)
